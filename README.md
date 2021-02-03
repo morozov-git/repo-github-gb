@@ -2,6 +2,7 @@ gitKraken
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 123
 test test kraken
 test kraken
@@ -23,6 +24,9 @@ test 3-42
 test 3-46
 
 test 4-31
+=======
+test kraken
+>>>>>>> Stashed changes
 =======
 test kraken
 >>>>>>> Stashed changes
